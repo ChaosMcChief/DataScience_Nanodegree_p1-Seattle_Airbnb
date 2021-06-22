@@ -7,11 +7,11 @@ This repository refers to the first project of the Udacity Data Science Nanodegr
 In this repo you'll find a jupyter notebook in which you can see all the datawrangling and plots described in this blog-post. 
 
 ## Install
-To run the notebook you pretty much just need a standard Anaconda-installment. The data is not included in this repo, so you have to download it to the repo-folder in order to make the notebook working.
+To run the notebook you pretty much just need a standard Anaconda-installment. The data is not included in this repo, so you have to download it directly to the repo-folder in order to make the notebook work.
 
 ## Questions asked
 The three main questions I wanted to answer with this dataset are the following.
 
  - Whats the cheapest time of the year to travel to Seattle and how does it match with the booking volume?
- - What are the most expensive / cheapest neighborhoods?
- - What are the most relevant price factors?
+ - What are the most expensive / cheapest neighbourhoods?
+ - Is the host behaviour influencing the price?
