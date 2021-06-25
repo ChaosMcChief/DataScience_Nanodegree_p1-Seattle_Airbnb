@@ -14,4 +14,4 @@ The three main questions I wanted to answer with this dataset are the following.
 
  - Whats the cheapest time of the year to travel to Seattle and how does it match with the booking volume?
  - What are the most expensive / cheapest neighbourhoods?
- - Is the host behaviour influencing the price?
+ - Is the host behaviour influencing the price and availability?
